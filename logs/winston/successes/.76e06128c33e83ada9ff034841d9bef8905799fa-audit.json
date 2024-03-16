@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-health-care-server/logs/winston/successes/.76e06128c33e83ada9ff034841d9bef8905799fa-audit.json",
+    "files": [
+        {
+            "date": 1710559439486,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-health-care-server/logs/winston/successes/phu-2024-16-03-09-success.log",
+            "hash": "92e175bea5594fd0447878bd591537b8d1e18f4b75e31d1574943b9fdff65c3e"
+        },
+        {
+            "date": 1710562056969,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-health-care-server/logs/winston/successes/phu-2024-16-03-10-success.log",
+            "hash": "205011e4d58b3f1355bc7750faaa5e1e313969bb2eeae1220397d0a34aa37b3e"
+        }
+    ],
+    "hashType": "sha256"
+}
