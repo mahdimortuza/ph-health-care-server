@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/.fad0f4cebde398194c5563dec8ebed3e6ea524eb-audit.json",
+    "files": [
+        {
+            "date": 1710847592861,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-19-03-17-success.log",
+            "hash": "d413d3993b7f6efb2533997bf3f895b5f991a2f1e4e355ad476d251d8b304d06"
+        },
+        {
+            "date": 1710926197775,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-20-03-15-success.log",
+            "hash": "6d0e1833533c7836fdd320c595e5debe958c4f8eb4a17de18e3dbc4e13c4bd5e"
+        },
+        {
+            "date": 1710952062603,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-20-03-22-success.log",
+            "hash": "de5092408f716679546539033a475a55d76e81a5c67baa08b605f88c0e8fa381"
+        },
+        {
+            "date": 1710992298654,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-21-03-09-success.log",
+            "hash": "49006d1ea83ca9149c6c0f53bb2da12009dc55452dcb43e2bc88abee1cdcbc57"
+        },
+        {
+            "date": 1711772974032,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-30-03-10-success.log",
+            "hash": "f47e0786c5b3402a084381bd1f662fdb8561883d802063ebc114b6d40cb9ef99"
+        },
+        {
+            "date": 1711786086965,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-30-03-14-success.log",
+            "hash": "d07e524023d94ddc594fd5279753806d8177e8bde260b9b0f4a18dbff38d868d"
+        },
+        {
+            "date": 1711854031289,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-31-03-09-success.log",
+            "hash": "4535586c4a1f3653b0e0ab1d11df11ca9e653ffdf14adca51637f84db67683b4"
+        },
+        {
+            "date": 1711877857599,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-31-03-15-success.log",
+            "hash": "8e3ea5500488827c536e9a75ac31c731c83fdd8b05064cfb4a8a0c7424c0abc5"
+        },
+        {
+            "date": 1711901787427,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/successes/phu-2024-31-03-22-success.log",
+            "hash": "ee3afda887293505ab4de3b50347c6e58d136fc740e9eaed20fdfd40a2326713"
+        }
+    ],
+    "hashType": "sha256"
+}
