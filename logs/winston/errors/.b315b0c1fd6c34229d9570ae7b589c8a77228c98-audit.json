@@ -6,26 +6,6 @@
     "auditLog": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/.b315b0c1fd6c34229d9570ae7b589c8a77228c98-audit.json",
     "files": [
         {
-            "date": 1710847592863,
-            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-19-03-17-error.log",
-            "hash": "e5fcf005d8bf191c2c57c093301c470e6de8e05a4c02753d032fbef11b9a06c4"
-        },
-        {
-            "date": 1710926197778,
-            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-20-03-15-error.log",
-            "hash": "92838842cf43c7bb13101b9534b22a802b191778afd8277b41aeab794e3aef2d"
-        },
-        {
-            "date": 1710952062608,
-            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-20-03-22-error.log",
-            "hash": "8d6e4feaa3b73331025143a20c175b333f88ee1dc502f231bab39e06dcf61283"
-        },
-        {
-            "date": 1710992298662,
-            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-21-03-09-error.log",
-            "hash": "c3c5bc6143fe259e05fe76e835680c78489e1c0694b15e6726b2e78401f14e5b"
-        },
-        {
             "date": 1711772974045,
             "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-30-03-10-error.log",
             "hash": "5f693a19cc95f7ed637a70bebb865a3f4e88321cb30564ae6ad18cc0d7e85212"
@@ -49,6 +29,46 @@
             "date": 1711901787432,
             "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-31-03-22-error.log",
             "hash": "1760012e09b85120ba0655747bb5a50f5c4e3fc87cb349257bb701637fe81cac"
+        },
+        {
+            "date": 1711988253560,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-01-04-22-error.log",
+            "hash": "8dafa144b32be6e51c4f2b17bd667f960973a7f46055e9180bc2a1bca3a99511"
+        },
+        {
+            "date": 1712045049887,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-02-04-14-error.log",
+            "hash": "dbfe2df81909b7a68fbad8b46835e6fa3341aaa4699c12cd6443c35931300bd7"
+        },
+        {
+            "date": 1712074040541,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-02-04-22-error.log",
+            "hash": "81b4f790cfa04b558a7dd5b9dfc0bca29d8171ba6c1d540599f4c55e4d216190"
+        },
+        {
+            "date": 1712131692270,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-03-04-14-error.log",
+            "hash": "26f50308beae908aaed18f36bf226c7d7c37e6743611b876742a493e521d8d2b"
+        },
+        {
+            "date": 1712196804474,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-04-04-08-error.log",
+            "hash": "2ae22265d39635a408e858644a9771dd69eaaec9e4da98e2cb3e1ab2b2d84905"
+        },
+        {
+            "date": 1712205951452,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-04-04-10-error.log",
+            "hash": "a45109ffaaf80689a0abfd0ec0f4c0401033eb4556af2e57d53de77c8269e243"
+        },
+        {
+            "date": 1712285516639,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-05-04-08-error.log",
+            "hash": "7629de1c155a961639e7e606f6a66480fa09e2bf6be966b436b3a184f8aacc3b"
+        },
+        {
+            "date": 1712293401856,
+            "name": "/home/rah/projects/level-2/nextjs/ph-health-care/ph-healthcare-server/logs/winston/errors/phu-2024-05-04-11-error.log",
+            "hash": "0f861fb5684f1ba924fc3f8e5412c178548e420f9ad5906e4cc6b9cd2957c7a6"
         }
     ],
     "hashType": "sha256"
