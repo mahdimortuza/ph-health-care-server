@@ -1,0 +1,10 @@
+Sat Apr 06 2024 17:9:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The table `public.appointments` does not exist in the current database.
+Sat Apr 06 2024 17:10:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+The table `public.appointments` does not exist in the current database.

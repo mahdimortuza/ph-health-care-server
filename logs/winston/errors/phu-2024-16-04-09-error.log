@@ -1,0 +1,54 @@
+Tue Apr 16 2024 9:0:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Tue Apr 16 2024 9:1:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Tue Apr 16 2024 9:2:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Tue Apr 16 2024 9:3:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Tue Apr 16 2024 9:4:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Tue Apr 16 2024 9:5:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Tue Apr 16 2024 9:6:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Error querying the database: FATAL: Authentication error, reason: "Authentication query failed: %DBConnection.ConnectionError{message: \"connection not available and request was dropped from queue after 10000ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\\n\\n  1. Ensuring your database is available and that you can connect to it\\n  2. Tracking down slow queries and making sure they are running fast enough\\n  3. Increasing the pool_size (although this increases resource consumption)\\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\\n\\nSee DBConnection.start_link/2 for more information\\n\", severity: :error, reason: :queue_timeout}"
+Tue Apr 16 2024 9:7:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
